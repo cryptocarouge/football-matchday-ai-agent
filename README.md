@@ -2,6 +2,8 @@
 
 # Football Matchday AI Agent
 
+**Live project page:** https://cryptocarouge.github.io/projects/football-matchday-ai-agent.html
+
 An event-driven football intelligence and publishing system built with n8n.
 
 The private project was created around matchday automation for a football fan account. The public version focuses on the reusable engineering: live-state handling, multi-source validation, deduplication, editorial generation and publication control.
