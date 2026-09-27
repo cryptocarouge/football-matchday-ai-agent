@@ -6,6 +6,8 @@ An event-driven football intelligence and publishing system built with n8n.
 
 The private project was created around matchday automation for a football fan account. The public version focuses on the reusable engineering: live-state handling, multi-source validation, deduplication, editorial generation and publication control.
 
+> **Engineering case study:** [architecture decisions, failure modes and privacy boundary](docs/case-study.md)
+
 ## What it demonstrates
 
 - Fixture discovery across competitions
